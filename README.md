@@ -85,6 +85,10 @@ A página de previsão apresenta uma análise da evolução dos indicadores ao l
 
 ## Dashboard
 
+### Capa do Projeto
+
+![Dashboard - Capa](imagens/capa.jpg)
+
 ### Visão Geral
 
 ![Dashboard - Visão Geral](imagens/visao-geral.jpg)
