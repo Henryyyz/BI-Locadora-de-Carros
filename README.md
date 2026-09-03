@@ -91,7 +91,7 @@ A página de previsão apresenta uma análise da evolução dos indicadores ao l
 
 ### Clientes
 
-![Dashboard - Clientes](imagens/clientes.pg)
+![Dashboard - Clientes](imagens/clientes.jpg)
 
 ### Previsão
 
